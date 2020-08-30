@@ -1,0 +1,176 @@
+body{
+    background: lightgray;}
+
+.container{
+    width: 70%;
+    height: 890px;
+    background: white;
+    margin: 0 auto;}
+
+.block1{
+    float: left;
+    padding: 20px;   
+    font-family: Arial, Helvetica, sans-serif;}
+
+.block1 .vente{
+    font-size: small;
+    color: #FF358B;
+    margin-top: 47px;
+}
+
+.block2{
+    float: left;
+    position: relative;
+    left: 100px;}
+
+.block2 .numero{
+    position: relative;
+    bottom: 40px;
+    left: 50px;
+    color: #01B0F0;}
+.block2 .Lundi{
+    position: relative;
+    bottom: 40px;
+    color: tomato;}
+
+.block2 .besoin{
+    color: #01B0F0;}
+
+.block3{
+    float: left;
+    position: relative;
+    left: 137px;
+    background: lightskyblue;
+    height: 150px;
+    width: 292px;}
+
+.block3 .article{
+    float: right;
+    position: relative;
+    right: 60px;
+    color: white;}
+
+.block3 .compte{
+    position: relative;
+    left: 90px;
+    color: white;}
+
+h1{
+    float: right;
+    position: relative;
+    left: 20px;
+    bottom: 20px;}
+
+nav{
+    background: #01B0F0;
+    color: white;
+    height: 17px;
+    width: 864px;
+    /* margin-bottom: 70px; */
+    float: left;}
+
+nav, ul, li{
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+    padding-right: 50px;}
+
+.rose{
+    background: #FF358B;
+    position: relative;
+    right: 30px;
+    color: white;}
+
+.block4{
+    width: 200px;
+    /* border: 1px solid black; */
+    float: left;
+    padding-left: 20px;
+}
+
+.block4 h4{
+    color: #01B0F0;
+}
+
+.block5{
+    width: 400px;
+    /* border: 1px solid black; */
+    float: left;
+
+}
+
+.block5 h4{
+    color: #01B0F0;
+}
+
+.block4 p{
+    font-size: 12px;
+}
+
+.block5 p{
+    font-size: 12px;
+}
+
+.block6{
+    width: 200px;
+    /* border: 1px solid black; */
+    float: left;
+    padding-left: 20px;
+}
+
+.block6 h4{
+    color: #01B0F0;
+}
+
+.block6 p{
+    font-size: 12px;
+    float: right;
+    margin-right: 50px;
+}
+
+.fond{
+    float: left;
+    /* border: 1px solid black; */
+    margin-right: 20px;
+
+}
+
+
+.block7{
+    float: left;
+    height: 160px;
+    width: 290px;
+    /* border: 1px solid wheat; */
+    margin-right: 7px;
+    border-radius: 10px;
+    margin-left: 7px;
+    padding-left: 5px;
+    
+}
+
+.block7 .p1{
+    width: 100%;
+    height: 30px;
+    background-color: gray;
+    margin: 0em;
+    padding-top: 10px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.banner{
+    float: left;
+    margin-top: 10px;
+}
+
+footer{
+    float: left;
+    width: 100%;
+    height: 40PX;
+    background-color: #01B0F0;
+    padding-top: 10px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
